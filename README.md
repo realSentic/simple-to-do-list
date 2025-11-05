@@ -20,4 +20,4 @@ Run: Start the development server (e.g., npm run dev) to view the application in
 # 4. Contact
 Developed By: Syiam Fortunado
 
-Project Link: [Your GitHub Repository Link]
+Project Link: https://realsentic.github.io/simple-to-do-list/
