@@ -13,7 +13,7 @@ Styling: Tailwind CSS
 Language: JavaScript (or TypeScript)
 Tooling: [Vite or Create React App (CRA)]
 
-4. Getting Started
+# 4. Getting Started
 These instructions will guide you through setting up and running the project locally for development and testing purposes.
 
 Prerequisites
