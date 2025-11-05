@@ -36,7 +36,7 @@ Install project dependencies:
 
 ```npm install```
 
-# or
+or
 
 ```yarn install```
 
@@ -44,7 +44,7 @@ Launch the development server:
 
 ```npm run dev```
 
-# or
+or
 
 ```yarn dev```
 
