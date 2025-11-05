@@ -53,7 +53,7 @@ const EditDialog = ({ initialText, onSave, onCancel }) => {
                                 type="text"
                                 value={text}
                                 onChange={(e) => setText(e.target.value)}
-                                placeholder="Lathara Haven S. Penoliar"
+                                placeholder="Katsuki Bakugo"
                             />
                         </fieldset>
                         <div className="mt-[25px] flex justify-end">
