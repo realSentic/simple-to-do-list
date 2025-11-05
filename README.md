@@ -1,22 +1,16 @@
-1. Overview
+# 1. Overview
 This project is a functional, single-page To-Do List application developed using the React framework and styled with the utility-first CSS framework, Tailwind CSS. The primary objective is to provide a clean, responsive interface for managing daily tasks through creation, completion tracking, and deletion.
 
-2. Key Features
+# 2. Key Features
 Task Management: Users can add new tasks to the list and remove completed or unnecessary items.
-
 Status Toggling: Functionality to mark tasks as complete or incomplete, providing visual feedback on progress.
-
 Responsive Interface: The application layout is optimized for display across various devices, including desktop and mobile screens.
-
 State Persistence (Optional): [Indicate if the application uses browser storage (e.g., Local Storage) to maintain task data between sessions, or if the state resets upon refresh.]
 
-3. Technologies Used
+# 3. Technologies Used
 Frontend Library: React
-
 Styling: Tailwind CSS
-
 Language: JavaScript (or TypeScript)
-
 Tooling: [Vite or Create React App (CRA)]
 
 4. Getting Started
